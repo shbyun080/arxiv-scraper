@@ -10,7 +10,7 @@ In `main.yaml`, change `url` to desired daily update page and `filters` to your 
 
 `python scrape.py [--cfg <CONFIG PATH>] [--out <OUT DIR>]`
 
-## Setting Daily
+## Automation
 
 ### On Windows
 
@@ -24,4 +24,4 @@ For example, an example argument would be\
 `C:arxiv-scraper\scrape.py --cfg C:arxiv-scraper\main.yaml --out C:arxiv-scraper\out`
 
 ## License
-The code in this repository is released under the . A copy can be found in the LICENSE file.
+The code in this repository is released under the GNU General Public License v3.0. A copy can be found in the LICENSE file.
