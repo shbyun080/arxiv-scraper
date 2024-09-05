@@ -1,0 +1,14 @@
+url: https://arxiv.org/list/cs.CV/new
+
+filters:
+  - 3d
+  - gaussian
+  - segment
+  - face
+  - facial
+  - lip
+  - super-resolution
+  - super resolution
+  - pose
+  - lie
+  - manifold
